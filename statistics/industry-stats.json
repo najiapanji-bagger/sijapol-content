@@ -1,0 +1,61 @@
+{
+  "industry_statistics": {
+    "home_page_metrics": [
+      {
+        "id": "total_assets",
+        "label": "🏦 Total Aset Industri Asuransi",
+        "value": "Rp 485T",
+        "raw_value": 485000000000000,
+        "delta": "8.2% YoY",
+        "delta_type": "positive",
+        "icon": "🏦",
+        "unit": "trillion_rupiah",
+        "category": "financial"
+      },
+      {
+        "id": "active_companies",
+        "label": "🏭 Perusahaan Aktif",
+        "value": "156",
+        "raw_value": 156,
+        "delta": "2 perusahaan baru",
+        "delta_type": "positive",
+        "icon": "🏭",
+        "unit": "count",
+        "category": "operational"
+      },
+      {
+        "id": "market_penetration",
+        "label": "🚀 Penetrasi Pasar Nasional",
+        "value": "2.8%",
+        "raw_value": 2.8,
+        "delta": "0.3% meningkat",
+        "delta_type": "positive",
+        "icon": "🚀",
+        "unit": "percentage",
+        "category": "market"
+      }
+    ],
+    "macro_dashboard_kpis": [
+      {
+        "metric_name": "Risk-Based Capital (RBC)",
+        "insurance_industry": "145%",
+        "banking_sector": "18.2%",
+        "benchmark": "120%",
+        "description": "Rasio kecukupan modal berbasis risiko"
+      },
+      {
+        "metric_name": "Loss Ratio",
+        "insurance_industry": "68%",
+        "banking_sector": "N/A",
+        "benchmark": "70%",
+        "description": "Rasio klaim terhadap premi"
+      }
+    ]
+  },
+  "metadata": {
+    "last_updated": "2025-09-16T06:05:24.851471",
+    "data_source": "OJK, Bank Indonesia",
+    "reporting_period": "Q4 2024",
+    "version": "1.0.0"
+  }
+}
