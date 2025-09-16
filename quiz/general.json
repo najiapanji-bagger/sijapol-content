@@ -1,0 +1,59 @@
+{
+  "quiz_sets": [
+    {
+      "id": "general",
+      "title": "Kuis Layanan Keuangan SIJAPOL",
+      "description": "Kuis umum tentang industri asuransi Indonesia dan regulasi terkait",
+      "category": "general",
+      "difficulty": "intermediate",
+      "time_limit": 30,
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Apa persyaratan minimum Risk-Based Capital (RBC) untuk perusahaan asuransi di Indonesia?",
+          "type": "multiple_choice",
+          "options": [
+            "100%",
+            "120%",
+            "150%",
+            "200%"
+          ],
+          "correct": 1,
+          "explanation": "RBC minimum untuk perusahaan asuransi di Indonesia adalah 120% sesuai regulasi OJK.",
+          "points": 1,
+          "difficulty": "medium",
+          "tags": [
+            "RBC",
+            "regulasi",
+            "OJK"
+          ]
+        },
+        {
+          "id": "q2",
+          "question": "Lembaga mana yang mengatur perusahaan asuransi di Indonesia?",
+          "type": "multiple_choice",
+          "options": [
+            "Bank Indonesia",
+            "Kementerian Keuangan",
+            "OJK (Otoritas Jasa Keuangan)",
+            "BAPEPAM-LK"
+          ],
+          "correct": 2,
+          "explanation": "OJK (Otoritas Jasa Keuangan) adalah regulator utama untuk industri jasa keuangan non-bank termasuk asuransi.",
+          "points": 1,
+          "difficulty": "easy",
+          "tags": [
+            "OJK",
+            "regulasi",
+            "pengawasan"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "last_updated": "2025-09-16T06:05:24.851465",
+    "version": "1.0.0",
+    "total_questions": 2
+  }
+}
