@@ -1,0 +1,84 @@
+{
+  "categories": {
+    "daily_news": [
+      {
+        "id": 1,
+        "title": "🌍 OJK Peringatkan Industri Asuransi Waspada Dampak Geopolitik Global",
+        "summary": "Otoritas Jasa Keuangan menekankan pentingnya prinsip kehati-hatian dalam pengelolaan investasi di tengah ketidakpastian global.",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "introduction": "OJK menekankan pentingnya prinsip kehati-hatian dalam pengelolaan investasi, mengingat konflik geopolitik dapat menekan kinerja portofolio industri asuransi.",
+        "key_points": [
+          "Total aset industri mencapai Rp1.163,62 triliun dengan pertumbuhan premi 0,88% yoy",
+          "Unit link menyumbang 22,78% dari total premi asuransi jiwa",
+          "OJK mendorong diversifikasi aset dan penguatan manajemen risiko",
+          "Peningkatan literasi keuangan pemegang polis menjadi prioritas"
+        ],
+        "impact": "Peringatan ini menjadi momentum penting bagi industri asuransi untuk memperkuat ketahanan terhadap guncangan eksternal dan memastikan stabilitas keuangan nasional.",
+        "conclusion": "Strategi kehati-hatian dan diversifikasi portofolio menjadi kunci utama dalam menghadapi tantangan geopolitik global yang semakin kompleks.",
+        "published_date": "2025-01-21",
+        "category": "daily_news",
+        "tags": [
+          "geopolitik",
+          "OJK",
+          "manajemen_risiko",
+          "stabilitas_keuangan"
+        ]
+      }
+    ],
+    "insights_essays": [
+      {
+        "id": 4,
+        "title": "🏦 Masa Depan Perbankan Syariah Indonesia",
+        "summary": "Analisis mendalam tentang tren dan peluang sektor perbankan syariah dalam mendukung inklusi keuangan.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "introduction": "Sektor perbankan syariah Indonesia menunjukkan pertumbuhan solid dengan dukungan regulasi yang kondusif dan inovasi produk.",
+        "key_points": [
+          "Transformasi digital mempercepat layanan syariah",
+          "Permintaan produk investasi syariah meningkat",
+          "Harmonisasi regulasi tingkatkan kepercayaan pasar",
+          "Prinsip sustainability sejalan dengan nilai syariah"
+        ],
+        "impact": "Potensi Indonesia menjadi pemimpin global Islamic finance dengan dukungan populasi Muslim terbesar dunia.",
+        "conclusion": "Investasi dalam infrastruktur digital dan pengembangan SDM menjadi kunci kompetitivitas global.",
+        "published_date": "2025-01-20",
+        "category": "insights_essays",
+        "tags": [
+          "syariah",
+          "perbankan",
+          "inklusi_keuangan",
+          "transformasi_digital"
+        ]
+      }
+    ],
+    "lessons_failures": [
+      {
+        "id": 6,
+        "title": "🔴 Krisis PT Asuransi Jiwasraya: Pelajaran Tata Kelola",
+        "summary": "Analisis mendalam tentang akar masalah dan pembelajaran dari krisis likuiditas terbesar dalam sejarah asuransi Indonesia.",
+        "image": "https://images.unsplash.com/photo-1590736969955-71cc94901144?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "introduction": "Krisis Jiwasraya 2018 mengungkap kelemahan fundamental dalam tata kelola dan manajemen risiko industri asuransi.",
+        "key_points": [
+          "Konsentrasi berlebihan pada investasi berisiko tinggi",
+          "Lemahnya sistem pengendalian internal dan audit",
+          "Kurangnya transparansi dalam pengambilan keputusan investasi",
+          "Pengawasan regulatori yang tidak memadai"
+        ],
+        "impact": "Krisis ini memicu reformasi total sistem pengawasan dan regulasi industri asuransi di Indonesia.",
+        "conclusion": "Diversifikasi investasi, good governance, dan pengawasan ketat menjadi fondasi pencegahan krisis serupa.",
+        "published_date": "2025-01-19",
+        "category": "lessons_failures",
+        "tags": [
+          "jiwasraya",
+          "krisis",
+          "tata_kelola",
+          "manajemen_risiko"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "last_updated": "2025-09-16T06:05:24.851449",
+    "version": "1.0.0",
+    "total_articles": 3
+  }
+}
